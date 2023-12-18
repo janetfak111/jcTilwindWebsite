@@ -12,7 +12,7 @@ const MyFooter = () => {
            <a href=""className='text-2x1 font-semibold flex items-center space-x-3'><img src={logo} width={10} height={6} alt=''className='w-10 inline-block items-center'/>
                <span className='text-[#263238]'>NEXCENT</span></a>
            <div>
-            <p className='mb-l'>Copyright O 2020 Nexcent ltd.</p>
+            <p className='mb-1'>Copyright O 2020 Nexcent ltd.</p>
             <p>All rights reserved</p>
             </div>  
         </div>
